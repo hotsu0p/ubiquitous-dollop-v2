@@ -172,7 +172,7 @@ async def main():
     os.system("clear")
     await client.load_extension("cogs")
     await client.load_extension("jishaku")
-    tkn = "MTE2ODk5NDI5Njk4OTQ4MzA1OA.GBTd7p._kBivLmtM0cOHpqlJpJYqA21e5RAG7gJJXG2WU"
+    tkn = "Token here"
     await client.start(tkn)
 
 
